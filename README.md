@@ -1,2 +1,2 @@
 # near-nft-editor
-interactive multimedia nft editor for near.org
+Multiplatform editor for interactive multimedia reprogrammable multimodal NFTs for near.org and more.
